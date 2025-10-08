@@ -8,10 +8,6 @@ The workflow includes data cleaning (handling missing values and data types), fo
 - Wide spread of prices, median price around $600
 - Price distributions vary across neighborhoods
 
-## How to Run
-1. Clone the repo and add `Airbnb_Open_Data.xlsx` to the folder.
-2. Open and run the analysis notebook/script in Google Colab or Jupyter.
-3. Required Python libraries: `pandas`, `matplotlib`, `seaborn`, `openpyxl`.
 
 ## Author
 Abu Obaida
